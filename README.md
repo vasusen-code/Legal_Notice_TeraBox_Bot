@@ -1,8 +1,8 @@
-Legal notice for TeraBox Bot
+# Legal notice for TeraBox Downloader Bot
 
 TeraBox Downloader Bot is fast, and power-ful stream link generating bot supporting Terabox and it's other domains.
 
-TeraBox Downloader Bott is an aggregator. This means, it just downloads other publicly available streaming links.
+TeraBox Downloader Bot is an aggregator. This means, it just downloads other publicly available streaming links.
 
 TeraBox Downloader Bot does not host or "make available" any files or links in any way, shape or form.
 
@@ -10,7 +10,7 @@ TeraBox Downloader Bot links to other independent Telegram files that might host
 
 TeraBox Downloader Bot merely downloads the content, much like how Bing and Google works!
 
-Downloading process is completely automated. We don't check it. Whatever the stupid users suck in goes. The good, the bad and the ugly.
+Downloading process is completely automated. We don't check it. Whatever the users suck in goes. The good, the bad and the ugly.
 
 We don't host the files.
 
